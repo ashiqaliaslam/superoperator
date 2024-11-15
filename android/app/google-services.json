@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925969828172",
+    "project_id": "fpcl-ops",
+    "storage_bucket": "fpcl-ops.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925969828172:android:59567409f2c4e58c89a7e9",
+        "android_client_info": {
+          "package_name": "com.example.superoperator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9VkyDbD0DLw4yNe7idj1jgrjmDS1kUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
