@@ -53,7 +53,7 @@ class SignInView extends StatelessWidget {
           padding: const EdgeInsets.all(20),
           child: AspectRatio(
             aspectRatio: 1,
-            child: Image.asset('assets/images/flutterfire_300x.png'),
+            child: Image.asset('assets/images/fpcl_logo.png'),
           ),
         );
       },
