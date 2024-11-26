@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import '../views/profile_view.dart';
 import '../views/sign_in_view.dart';
 
-class LoggedInStatus extends StatelessWidget {
-  const LoggedInStatus({
+class LoggedInButton extends StatelessWidget {
+  const LoggedInButton({
     super.key,
     required this.loggedIn,
     required this.signOut,

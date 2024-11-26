@@ -14,15 +14,6 @@ class SignInView extends StatelessWidget {
   Widget build(BuildContext context) {
     return SignInScreen(
       actions: [
-        //   ForgotPasswordAction(
-        //     (context, email) {
-        //       Navigator.pushNamed(
-        //         context,
-        //         ForgotPasswordView1.route,
-        //         arguments: {'email', email},
-        //       );
-        //     },
-        //   ),
         AuthStateChangeAction(
           (context, state) {
             final user = switch (state) {

@@ -15,11 +15,3 @@ void main() async {
     builder: ((context, child) => const App()),
   ));
 }
-
-// class ApplicationState with ChangeNotifier {
-//   bool get emailVerified => true;
-
-//   void refreshLoggedInUser() {
-//     // Refresh the logged-in user's state
-//   }
-// }
